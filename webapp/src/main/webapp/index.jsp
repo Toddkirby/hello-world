@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-    <h3>welcome to the thunderDOME!</h3>
+    <h3>testing automated deployment!</h3>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
